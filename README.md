@@ -1,2 +1,4 @@
 # DAI-Wallet
-DAI Wallet made w/ guide of DappUniversity
+DAI Wallet made w/ guide of DappUniversity: 
+https://www.youtube.com/watch?v=wSTbBIK8qrY 
+https://github.com/dappuniversity/eth_wallet 
