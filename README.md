@@ -1,2 +1,2 @@
 # DAI-Wallet
-DAI Wallet made w guid of DappUniversity
+DAI Wallet made w/ guide of DappUniversity
